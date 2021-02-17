@@ -1,0 +1,6 @@
+alias vbash='vim .bashrc'
+alias vvim='vim .vimrc'
+alias valias='vim .bash_aliases'
+alias vzsh='vim .zshrc'
+alias python='python3'
+alias pip='pip3'
